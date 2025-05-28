@@ -15,7 +15,7 @@ st.set_page_config(page_title="Alzheimer's MRI Classifier", layout="centered")
 # Load model
 @st.cache_resource
 def load_vgg16_model():
-    return load_model("model\model_VGG16.keras")
+    return load_model("model/model_VGG16.keras")
 
 # Load the model
 model = load_vgg16_model()
