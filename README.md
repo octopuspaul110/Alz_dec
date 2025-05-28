@@ -40,13 +40,3 @@ More:
 - [Keras Grad-CAM Tutorial](https://keras.io/examples/vision/grad_cam/)
 
 ---
-
-## 📸 Example
-
-| Uploaded MRI | Grad-CAM Overlay | Predicted |
-|--------------|------------------|-----------|
-| ![img](assets/sample_input.png) | ![gradcam](assets/sample_gradcam.png) | MildDemented (81.4%) |
-
----
-
-## 📂 File Structure
