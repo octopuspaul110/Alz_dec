@@ -37,6 +37,3 @@ Grad-CAM (Selvaraju et al., 2017) highlights parts of the MRI that most influenc
 
 More:
 - [Grad-CAM Paper](https://arxiv.org/abs/1610.02391)
-- [Keras Grad-CAM Tutorial](https://keras.io/examples/vision/grad_cam/)
-
----
