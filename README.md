@@ -63,7 +63,19 @@ We compared three models: a **Custom CNN**, **SCCAN**, and **VGG16**. Results sh
 ### Confusion Matrix Comparison
 
 <p align="center">
-  <img src="conclusion_images/gradcam.png" alt="Confusion Matrices" width="600"/>
+  <img src="conclusion_images/confmat3.png" alt="Confusion Matrices" width="600"/>
+</p>
+
+### Accuracy History over Epochs
+
+<p align="center">
+  <img src="conclusion_images/Accuracy_history.png" alt="Confusion Matrices" width="600"/>
+</p>
+
+### Model testing over 50 images
+
+<p align="center">
+  <img src="conclusion_images/visuals.png" alt="Confusion Matrices" width="600"/>
 </p>
 
 ---
