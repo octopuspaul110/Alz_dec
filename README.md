@@ -86,9 +86,11 @@ The results demonstrate that **VGG16** and **SCCAN** are both highly effective i
 
 Key takeaways:
 
-- 🔍 **Custom CNN** lacked the discriminative power to accurately classify subtle stages.
-- 🧠 **SCCAN** and **VGG16** performed exceptionally well, both exceeding **95% accuracy**.
-- 🎯 **Grad-CAM** helps clinicians understand what the model "sees", improving trust in AI systems.
-- 🏥 These results bring us one step closer to **AI-assisted clinical diagnosis** in real-world medical environments.
+- **Custom CNN** lacked the discriminative power to accurately classify subtle stages.
+- **SCCAN** and **VGG16** performed exceptionally well, both exceeding **95% accuracy**.
+- **Grad-CAM** helps clinicians understand what the model "sees", improving trust in AI systems.
+- These results bring us one step closer to **AI-assisted clinical diagnosis** in real-world medical environments.
 
 ---
+
+Test the model out on the strealit app https://alzdec-xaxijapkxs3mknm3adhxbx.streamlit.app/
