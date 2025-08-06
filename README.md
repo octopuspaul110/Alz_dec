@@ -36,7 +36,7 @@ This application uses a **VGG16** model pre-trained on ImageNet, then fine-tuned
 
 ## 🎯 Grad-CAM Visual Explanation
 
-**Grad-CAM** (Selvaraju et al., 2017) is used to visualize regions of the MRI that most influenced the model's decision. 
+**Grad-CAM** (Selvaraju et al., 2017) is used to visualize regions of the MRI that most influenced the model's decision.
 - 🔴 **Red** = strong activation
 - 🔵 **Blue** = low attention
 
@@ -45,7 +45,7 @@ This application uses a **VGG16** model pre-trained on ImageNet, then fine-tuned
 - [Grad-CAM Paper](https://arxiv.org/abs/1610.02391)
 
 <p align="center">
-  <img src="[images/sample_gradcam.png](https://raw.githubusercontent.com/octopuspaul110/Alz_dec/refs/heads/main/conclusion_images/download%20(1).png)" alt="Grad-CAM Example" width="500"/>
+  <img src="conclusion_images/gradcam.png" alt="Grad-CAM Example" width="500"/>
 </p>
 
 ---
@@ -63,14 +63,14 @@ We compared three models: a **Custom CNN**, **SCCAN**, and **VGG16**. Results sh
 ### Confusion Matrix Comparison
 
 <p align="center">
-  <img src="images/confusion_matrices.png" alt="Confusion Matrices" width="600"/>
+  <img src="conclusion_images/gradcam.png" alt="Confusion Matrices" width="600"/>
 </p>
 
 ---
 
 ## ✅ Conclusion
 
-The results demonstrate that **VGG16** and **SCCAN** are both highly effective in diagnosing Alzheimer’s stages from MRI scans, especially early-stage detection like *Very Mild Dementia*. 
+The results demonstrate that **VGG16** and **SCCAN** are both highly effective in diagnosing Alzheimer’s stages from MRI scans, especially early-stage detection like *Very Mild Dementia*.
 
 Key takeaways:
 
