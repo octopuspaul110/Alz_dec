@@ -91,7 +91,7 @@ Key takeaways:
 - **Grad-CAM** helps clinicians understand what the model "sees", improving trust in AI systems.
 - These results bring us one step closer to **AI-assisted clinical diagnosis** in real-world medical environments.
 
-please check out the methodology and result documentations in the documentation folder
+please check out the methodology and result documentations in the documentation folder https://github.com/octopuspaul110/Alz_dec/tree/main/documentation
 
 ---
 
